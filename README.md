@@ -1,9 +1,9 @@
 # High-Performance Social Network Analytics Engine
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyBind11](https://img.shields.io/badge/PyBind11-Native%20Bindings-FF6F00?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![C++](https://img.shields.io/badge/C++-17-blue)
+![Python](https://img.shields.io/badge/Python-3.8+-yellow)
+![PyBind11](https://img.shields.io/badge/PyBind11-Native%20Bindings-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 
 A production-grade, memory-optimized social network analytics engine built in **C++17** and seamlessly integrated with a **Python/Streamlit** frontend using **PyBind11**.
 
